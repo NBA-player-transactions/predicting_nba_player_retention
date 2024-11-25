@@ -10,6 +10,6 @@ of data:
 
 We create a subfolder for each category. Within each folder, we provide:
 
-- A README.md file with a description of the data collected.
+- A `README.md` file with a description of the data collected.
 - Jupyter notebook(s) (if applicable) using in data collection.
 - One or more csv files containing the collected data.
